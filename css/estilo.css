@@ -10,14 +10,21 @@ body{
 }
 main{
     margin: 200px 50px;
+    
 }
 .uno{
     background-color: #fefeff;
     text-align: center;
-
+    padding-top: 50px;
+    border-radius: 15px;
 }
+
 a:link{
     text-decoration: none;
     color: #446ae3;
     font-family: "Noto Sans", sans-serif;
+    font-size: 13px;
+}
+a:visited{
+    color: rgb(235, 95, 245);
 }
