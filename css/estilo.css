@@ -12,6 +12,11 @@ main{
     margin: 200px 50px;
     
 }
+
+
+/* Section uno */
+
+
 .uno{
     background-color: #fefeff;
     text-align: center;
@@ -30,13 +35,19 @@ a:visited{
 }
 h1{
     font-family: "Noto Sans", sans-serif;
+    font-size: 25px;
     padding-top: 15px;
 }
 .uno p{
     font-family: "Hind", sans-serif;
     font-weight: 400;
     padding-top: 10px;
+    font-size: 15px;
 }
+
+
+/* Section Dos */
+
 
 table{
     margin: 100px;
@@ -49,4 +60,12 @@ i{
     background-color: #4269e2;
     border-radius: 50%;
     padding: 10px;
+}
+ 
+
+h2{
+    font-family: "Hind", sans-serif;
+    font-weight: 600;
+    font-size: 17px;
+    padding-top: 15px;
 }
