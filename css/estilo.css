@@ -5,8 +5,12 @@
     padding: 0;
     margin: 0;
 }
+:root{
+    --ColorPrimario: rgb(207,214,241) ;
+    --ColorSecundario: #446ae3;
+}
 body{
-    background-color:rgb(207,214,241);
+    background-color: var(--ColorPrimario);
 }
 main{
     margin: 150px 70px;
@@ -26,7 +30,7 @@ main{
 
 a:link{
     text-decoration: none;
-    color: #446ae3;
+    color: var(--ColorSecundario);
     font-family: "Archivo", sans-serif;
     font-size: 13px;
 }
@@ -57,9 +61,12 @@ table{
 tr{
     text-align: left;
 }
+th,td{
+    padding-left: 40px;
+}
 i{
     color: #fff;
-    background-color: #4269e2;
+    background-color: var(--ColorSecundario);
     border-radius: 50%;
     padding: 10px;
 }
