@@ -9,7 +9,7 @@ body{
     background-color:rgb(207,214,241);
 }
 main{
-    margin: 200px 50px;
+    margin: 150px 70px;
     
 }
 
@@ -38,7 +38,7 @@ h1{
     font-size: 25px;
     padding-top: 15px;
 }
-.uno p{
+.texto{
     font-family: "Hind", sans-serif;
     font-weight: 400;
     padding-top: 10px;
@@ -47,7 +47,9 @@ h1{
 
 
 /* Section Dos */
-
+/* .dos{
+    padding-bottom: 50px;
+} */
 
 table{
     margin: 100px;
@@ -68,4 +70,11 @@ h2{
     font-weight: 600;
     font-size: 17px;
     padding-top: 15px;
+}
+table p{
+    font-family: "Hind", sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    padding-bottom: 60px;
+    }
 }
