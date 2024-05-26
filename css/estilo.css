@@ -1,5 +1,5 @@
 @import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,500;1,500&family=Noto+Sans:ital,wght@0,900;1,900&display=swap');
 *{
     /* aplico selector universal */
     padding: 0;
@@ -22,9 +22,14 @@ main{
 a:link{
     text-decoration: none;
     color: #446ae3;
-    font-family: "Noto Sans", sans-serif;
+    font-family: "Archivo", sans-serif;
     font-size: 13px;
 }
 a:visited{
     color: rgb(235, 95, 245);
+}
+h1{
+    font-family: "Noto Sans", sans-serif;
+    font-weight: bold;
+    padding-top: 15px;
 }
