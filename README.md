@@ -13,7 +13,7 @@ En este proyecto se puede visualizar un componente (sección) de una página web
 
 ## Visualización en vivo
 ***
-Demostración en vivo del componente haciendo click <a href="https://ludmilaberto.github.io/image-based-web-project/">aquí</a>
+Demostración en vivo del componente haciendo click <a href="https://ludmilaberto.github.io/image-based-web-project/" target="_blank">aquí</a>
 
 
 
